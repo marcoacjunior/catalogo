@@ -1,25 +1,25 @@
 # catalogo
 Catálogo Produto Categoria
 
-Etapas:
-Projeto Spring Boot
-Monorepo Git
-Organização do projeto em camadas
-Controlador REST
-Serviço
-Acesso a dados (Repository)
-Criação de entidades
-Configurar perfil de teste do projeto
-Seeding da base de dados
-Criar web services REST
-Parâmetros de rota @PathVariable
-Parâmetros de requisição @RequestParam
-Corpo de requisição @RequestBody
-Resposta da requisição ResponseEntity<T>
-Padrão DTO
-CRUD completo
-Tratamento de exceções
-Postman (coleções, ambientes)
-Dados de auditoria
-Paginação de dados
-Associações entre entidades (N-N)
+Etapas: </br>
+Projeto Spring Boot </br>
+Monorepo Git </br>
+Organização do projeto em camadas </br>
+Controlador REST </br>
+Serviço </br>
+Acesso a dados (Repository) </br>
+Criação de entidades </br>
+Configurar perfil de teste do projeto </br>
+Seeding da base de dados </br>
+Criar web services REST </br>
+Parâmetros de rota @PathVariable </br>
+Parâmetros de requisição @RequestParam </br>
+Corpo de requisição @RequestBody </br>
+Resposta da requisição ResponseEntity<T> </br>
+Padrão DTO </br>
+CRUD completo </br>
+Tratamento de exceções </br>
+Postman (coleções, ambientes) </br>
+Dados de auditoria </br>
+Paginação de dados </br>
+Associações entre entidades (N-N) </br>
