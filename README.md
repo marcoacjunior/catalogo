@@ -1,7 +1,7 @@
 # catalogo
-Catálogo Produto Categoria
+API REST com Catálogo (Produto Categoria)
 
-Etapas: </br>
+Etapas que foram seguidas: </br>
 Projeto Spring Boot </br>
 Monorepo Git </br>
 Organização do projeto em camadas </br>
